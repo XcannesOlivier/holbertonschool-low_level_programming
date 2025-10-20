@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Prints a phrase using puts
+ * écrire une phrase avec puts
  *
- * Description: This function prints the phrase
- * "Programming is like building a multilingual puzzle"
- * followed by a new line.
+ * Bien vu le piége du guillemet.
+ * "Programming is like building a multilingual puzzle
+ * 
  *
- * Return: Always 0 (Success)
+ * Return: 0 (ok)
  */
 int main(void)
 {
