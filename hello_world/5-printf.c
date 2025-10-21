@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * écrire une phrase avec printf
+ * write  printf "Programming is like building a multilingual puzzle.
+ * Good luck with commas.
  *
- * Bien vu le piége virgule.
  * "Programming is like building a multilingual puzzle
- *
  * Return: 0 (ok)
  */
 int main(void)
