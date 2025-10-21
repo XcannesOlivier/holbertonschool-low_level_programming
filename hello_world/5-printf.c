@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * write  printf "Programming is like building a multilingual puzzle.
+ * main(void) printf "Programming is like building a multilingual puzzle
  * Good luck with commas.
  *
  * "Programming is like building a multilingual puzzle
