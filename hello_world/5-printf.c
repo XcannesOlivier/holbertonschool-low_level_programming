@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main(void) printf
+ * main - Entry point
  * Good luck with commas.
  *
  * "Programming is like building a multilingual puzzle
