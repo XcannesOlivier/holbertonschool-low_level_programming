@@ -21,6 +21,6 @@ int main(void)
 	}
 
 	putchar('\n'); /* retour à la ligne à la fin */
-   	return (0);
+	return (0);
 }
 
